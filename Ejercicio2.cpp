@@ -33,7 +33,7 @@ int main()
         }
         
         //Se pregunta al usuario si ingresará más datos, si elige 1, volverá a ingresar, si elije 2, entonces saldrá del bucle.
-        cout << "¿Desea ingresar a otro paciente?(escoja un numero) \n1.Si \n2.no \n";
+        cout << "Desea ingresar a otro paciente?(escoja un numero) \n1.Si \n2.no \n";
         cin >> decision;
         
     }while(decision == 1);
