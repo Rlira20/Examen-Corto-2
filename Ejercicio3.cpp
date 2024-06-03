@@ -8,7 +8,7 @@ int main()
     //Se inicia un bucle debido que no puede ingresar una cantidad negativa para los numeros que el usuario quiere ingresar.
     do {
         //Se le da la bienvenida e indicaciones.
-        cout << "BIENVENIDO A LA TRANSFORMACION DE NUMEROS \n";
+        cout << "-----------BIENVENIDO A LA TRANSFORMACION DE NUMEROS.----------- \n";
         cout << "Un numero par se devidie entre 2 y los impares se multiplican por 10.\n";
         //Se solicita la cantidad de numeros que quiere ingresar y se guarda en la variable 'cant'.
         cout << "¿Cuantos numeros desea ingresar?: ";

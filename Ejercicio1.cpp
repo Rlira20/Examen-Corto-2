@@ -23,7 +23,7 @@ int main()
 
     } else{
         //En dado caso que sean iguales, mostrará el siguiente mensaje. 
-        cout << "Sus alturas son de la misma altura, no es el trapecio esperado:(... ";
+        cout << "Sus alturas son iguales, no es el trapecio esperado:(... ";
     }
     
     return 0;
